@@ -1,4 +1,3 @@
-# ARTI-308-lab8
 
 # K-Nearest Neighbors (KNN) Classification Project
 
